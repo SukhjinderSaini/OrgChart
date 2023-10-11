@@ -1,0 +1,21 @@
+.employee-data{
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    max-width: 500px;
+    padding: 0 10px;
+}
+.avatar{
+    display: flex;
+    margin:0 auto;
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+    min-width: 50px;
+    width: 50px;
+    min-height: 50px;
+    margin-right: 20px;
+}
+.childEmployees .employee-data{
+    padding-left:30px;
+}

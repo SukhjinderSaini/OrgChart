@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "full_name": "Ryan Howard",
+      "job_title": "VP",
+      "parent_id": null
+    },
+    {
+      "id": "2",
+      "full_name": "Michael Scott",
+      "job_title": "Regional Manager",
+      "parent_id": "1"
+    },
+    {
+      "id": "3",
+      "full_name": "Dwight K. Schrute",
+      "job_title": "Assistant to the Regional Manager",
+      "parent_id": "2"
+    },
+    {
+      "id": "4",
+      "full_name": "Jim Halpert",
+      "job_title": "Assistant Regional Manager",
+      "parent_id": "2"
+    },
+    {
+      "id": "6",
+      "full_name": "Angela Martin",
+      "job_title": "Senior Accountant",
+      "parent_id": "2"
+    },
+    {
+      "id": "7",
+      "full_name": "Kevin Malone",
+      "job_title": "Accountant",
+      "parent_id": "6"
+    },
+    {
+      "id": "8",
+      "full_name": "Oscar Martinez",
+      "job_title": "Accountant",
+      "parent_id": "6"
+    },
+    {
+      "id": "9",
+      "full_name": "Darryl Philbin",
+      "job_title": "Warehouse Foreman",
+      "parent_id": "2"
+    },
+    {
+      "id": "10",
+      "full_name": "Jerry DiCanio",
+      "job_title": "Warehouse",
+      "parent_id": "9"
+    },
+    {
+      "id": "11",
+      "full_name": "Madge Madsen",
+      "job_title": "Warehouse",
+      "parent_id": "9"
+    },
+    {
+      "id": "12",
+      "full_name": "Andy Bernard",
+      "job_title": "Regional Director in Charge of Sales",
+      "parent_id": "2"
+    },
+    {
+      "id": "13",
+      "full_name": "Phyllis Lapin",
+      "job_title": "Sales Rep.",
+      "parent_id": "12"
+    },
+    {
+      "id": "14",
+      "full_name": "Stanley Hudson",
+      "job_title": "Sales Rep.",
+      "parent_id": "12"
+    },
+    {
+      "id": "16",
+      "full_name": "Kelly Kappor",
+      "job_title": "Customer Service Rep.",
+      "parent_id": "2"
+    },
+    {
+      "id": "18",
+      "full_name": "Toby Flenderson",
+      "job_title": "Human Resources",
+      "parent_id": "2"
+    }
+  ]
+}
